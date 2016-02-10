@@ -82,7 +82,10 @@
 				5B493B761C61380900BBC6D3 /* CalculatorUITests */,
 				5B493B551C61380900BBC6D3 /* Products */,
 			);
+			indentWidth = 2;
 			sourceTree = "<group>";
+			tabWidth = 2;
+			usesTabs = 0;
 		};
 		5B493B551C61380900BBC6D3 /* Products */ = {
 			isa = PBXGroup;
@@ -484,6 +487,7 @@
 				5B493B7E1C61380900BBC6D3 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		5B493B7F1C61380900BBC6D3 /* Build configuration list for PBXNativeTarget "CalculatorTests" */ = {
 			isa = XCConfigurationList;
@@ -492,6 +496,7 @@
 				5B493B811C61380900BBC6D3 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		5B493B821C61380900BBC6D3 /* Build configuration list for PBXNativeTarget "CalculatorUITests" */ = {
 			isa = XCConfigurationList;
@@ -500,6 +505,7 @@
 				5B493B841C61380900BBC6D3 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
